@@ -64,8 +64,8 @@ I specialize in building scalable backend systems using Java and Spring Boot. I 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prisar13&theme=shadow_green&hide_border=false&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=prisar13&theme=shadow_green&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prisar13&theme=tokyonight&hide_border=false&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=prisar13&theme=tokyonight&hide_border=false)
 
 ---
 
