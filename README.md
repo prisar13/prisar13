@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I'm **Prisar**  
+👋 Hi, I'm **Priyanka**  
 🚀 Software Engineer | Backend Focused | Java Enthusiast  
 
 I specialize in building scalable backend systems using Java and Spring Boot. I write clean, testable code and constantly explore new tools to sharpen my skills. Currently, I'm expanding into frontend development with React and building full-stack projects to solidify my knowledge.
