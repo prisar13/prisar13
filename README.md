@@ -57,7 +57,6 @@ I specialize in building scalable backend systems using Java and Spring Boot. I 
 
 ## 📌 Currently Focusing On
 
-- Mastering DSA & System Design for upcoming interviews  
 - Developing full-stack projects with Spring Boot + React  
 - Writing high-performance, maintainable backend code
 
